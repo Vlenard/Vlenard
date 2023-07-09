@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋 I'm Váradi Bence</h1>
-<h3 align="center">Frontend Developer</h3>
 
 - 🔭 I’m currently working on [Notes-app](https://github.com/Vlenard/notes-app)
 
