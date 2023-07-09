@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋 I'm Váradi Bence</h1>
 
-- 🔭 I’m currently working on [Notes-app](https://github.com/Vlenard/notes-app)
+- 🔭 I’m currently working on [BenoBureger](https://github.com/Vlenard/BenoBurger)
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **Laravel**
 
 - 📫 How to reach me **varadibencelenard@gmail.com**
 
