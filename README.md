@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋 I'm Váradi Bence</h1>
 
-- 🔭 I’m currently working on [BenoBureger](https://github.com/Vlenard/BenoBurger)
-
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **C**
 
 - 📫 How to reach me **varadibencelenard@gmail.com**
 
