@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Váradi Bence</h1>
+<h1 align="center">Hi 👋 I'm Bence Váradi</h1>
 
 <h3>Frontend developer</h3>
 <h3 align="left">Connect with me: varadibencelenard@gmail.com</h3>
