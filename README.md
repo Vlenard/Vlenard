@@ -3,7 +3,7 @@
 <h3>Frontend developer</h3>
 <h3 align="left">Connect with me: varadibencelenard@gmail.com</h3>
 
-<h3 align="left">Languages and Tools:</h3>
+
 
 <h3>References</h3>
 <ul>
@@ -11,6 +11,7 @@
   <li><a href="https://github.com/Vlenard/CHangman" target="_blank">https://github.com/Vlenard/CHangman</a></li>
 </ul>
 
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
